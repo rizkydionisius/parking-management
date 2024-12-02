@@ -43,7 +43,7 @@ form, .details {
 
 .form-container {
   position: relative;
-  z-index: 10;  /* Pastikan formulir berada di atas elemen lain */
+  z-index: 10; 
 }
 .col-md-6 {
   flex: 0 0 48%;
