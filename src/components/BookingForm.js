@@ -1,4 +1,3 @@
-// src/components/BookingForm.js
 import React, { useState } from 'react';
 
 const BookingForm = ({ spots, onSpotSelection, onFormSubmit, selectedSpot, errorMessage, bookingSuccess }) => {
