@@ -1,4 +1,3 @@
-// src/components/BookingDetails.js
 import React from 'react';
 
 const BookingDetails = ({ selectedSpot, spots }) => {
